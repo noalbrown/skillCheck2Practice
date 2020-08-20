@@ -1,0 +1,1 @@
+DELETE FROM somename WHERE product_id = $1;
